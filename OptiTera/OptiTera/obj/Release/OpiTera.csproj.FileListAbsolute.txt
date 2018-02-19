@@ -1,0 +1,15 @@
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\bin\Release\OxiBoost.exe.config
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\bin\Release\OxiBoost.exe
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\bin\Release\OxiBoost.pdb
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OptiTera.EngineControl.resources
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OptiTera.HomeControl.resources
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OptiTera.OxiBoostForm.resources
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OptiTera.PartyUI.resources
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OxiBoost.Properties.Resources.resources
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OptiTera.S1UIControl.resources
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OptiTera.ExternalConfig.resources
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OptiTera.Video.resources
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OpiTera.csproj.GenerateResource.Cache
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OpiTera.csproj.CoreCompileInputs.cache
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OxiBoost.exe
+C:\Users\Skylake\source\repos\OptiTera\OxiBoost\obj\Release\OxiBoost.pdb
